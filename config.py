@@ -14,7 +14,7 @@ AUTO_RAID_CONFIG = {
     'channel_type': 'text',  # text/voice     
     'channel_name': '☢️ NUKE BY PS99 SCRIPT ☢️',  # Channel name      
     'num_messages': 30,  # Number of message to spam/better max 30     
-    'message_content': '@everyone @here NUKE SERVER BY PS99 SCRIPT TOOLS JOIN SERVER ' # Spam Message     
+    'message_content': '@everyone @here NUKE SERVER BY PS99 SCRIPT TOOLS JOIN SERVER https://discord.com/invite/zgwkHxtCZy' # Spam Message     
 }
 
 NO_BAN_KICK_ID = {
@@ -33,9 +33,9 @@ EMBED_CONFIG = {
     "description": "PS99 SCRIPT NUKER BY",   # Main Embed Description here/ description of the discord server           
     "color": 0xFF5733,   # Change embed color if you want (red) is 0xFF5733        
     "fields": [
-        {"name": "🥋ShadowNinjas🥋", "value": "🥋ShadowNinjas🥋", "inline": False},     
-        {"name": "🥋ShadowNinjas🥋", "value": "🥋ShadowNinjas🥋", "inline": False},
-        {"name": "🥋ShadowNinjas🥋", "value": "🥋ShadowNinjas🥋", "inline": False},    # Exemple → "name": "Title 1", "value": "Hello, here is my message", "inline": False      
+        {"name": "☢️ nuke by ps99 script ☢️", "value": "☢️ nuke by ps99 script ☢️", "inline": False},     
+        {"name": "☢️ nuke by ps99 script ☢️", "value": "☢️ nuke by ps99 script ☢️", "inline": False},
+        {"name": "☢️ nuke by ps99 script ☢️", "value": "☢️ nuke by ps99 script ☢️", "inline": False},    # Exemple → "name": "Title 1", "value": "Hello, here is my message", "inline": False      
     ],
     "image": "https://pbs.twimg.com/media/GARsLJzWIAAuioX.jpg:large",   # Embed Icon url here → https://yourimage.com     
     "footer": "☢️ NUKER BY PS99 SCRIPT ☢️",  # Embed Footer here/ just a text     
